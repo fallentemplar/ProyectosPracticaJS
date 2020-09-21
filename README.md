@@ -1,10 +1,13 @@
 ![Javascript](./assets/img/javascript.jpg "Javascript logo")
 
-# Prácticas de Javascript
+# Javascript practices
 
-## _Un conjunto de pequeñas prácticas de programación codificadas en Javascript, con el fin de practicar el lenguaje_
+## _A set of little programming practices and exercices made with Javascript, in order to practice the language_
 
-## Contenido
+## Content
 
-* ### Lista de tareas con LocalStorage
+* ### Tasks list with LocalStorage
+    ![LocalStorage](./assets/img/LocalStorage.png "LocalStorage")
+* ### Rock, Paper, Scissors game
+    ![RockPaperScissors](./assets/img/RockPaperScissors.png "Rock paper scissors")
 
